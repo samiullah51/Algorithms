@@ -13,7 +13,7 @@ arr.unshift("jamal");
 
 // Same for the removal from the end is -- O(1)
 arr.pop();
-console.log(arr);
+// console.log(arr);
 
 // but removal from the beginning is -- O(n)
 arr.shift();
