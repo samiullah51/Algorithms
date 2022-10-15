@@ -9,4 +9,7 @@ const user = {
 // console.log(Object.keys(user));
 
 // Entries
-console.log(Object.entries(user));
+// console.log(Object.entries(user));
+
+// hasOnProperty
+console.log(user.hasOwnProperty("username"));

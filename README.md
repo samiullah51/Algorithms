@@ -30,3 +30,11 @@ Thus, it has become necessary for programmers to check their code and analyze it
 
 It means that insertion, deletion and accessing is constant while searching is depend upon the number of key value pairs in object means that it is linear time.
 <img src="https://paper-attachments.dropbox.com/s_D8321C80F6574B261A5AA02D2476A50C8DDF61A6CC2583DCEE0E18EC365EF07B_1658417045591_Untitled+Diagram.jpg" width="100%" height="500">
+
+### Big O Arrays
+
+    Arrays are in ordered form. We use arrays when we need data in orders. But sometime we face some issues and problems while we perform some operations on arrays.
+    depends -- insertion
+    depends -- removal
+    O(N)    -- searching
+    O(1)    -- accessing
