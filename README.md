@@ -54,4 +54,4 @@ It means that insertion, deletion and accessing is constant while searching is d
     O(n * log n) -- sort()
     O(n) -- forEach()/map()/filter()/reduce()
 
-<img src="https://miro.medium.com/max/1400/1*U1kFNbJBhpLakBk2urn7nw.png" width="100%" height="100%">
+<img src="https://miro.medium.com/max/1400/1*U1kFNbJBhpLakBk2urn7nw.png" width="50%" height="50%">
