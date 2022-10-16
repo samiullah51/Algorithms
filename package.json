@@ -1,0 +1,23 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "I am going through some algorithms and data structures to find fast and accurate solutions for some problems. I will foucs on time and space complexity as well and I will\r make it sure to cover different concepts.",
+  "main": "index.js",
+  "scripts": {
+    "start" :"nodemon ./objects/arrayMethods.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samiullah51/algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samiullah51/algorithms/issues"
+  },
+  "homepage": "https://github.com/samiullah51/algorithms#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
